@@ -54,6 +54,11 @@ The Fire Detection System is an embedded systems project designed to detect fire
 - Circuit Design
 - Electronics Prototyping
 
+## Hardware setup
+[ watch the working vedio here](https://drive.google.com/file/d/19OHEmnbBwGWRkQ1uGUkFCyu18n17g1jv/view?usp=drivesdk)
+
+  
+
 ## Author
 **Pranjal Machindra Shinde**
 Electronics & Computer Engineering Student
